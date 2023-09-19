@@ -1,0 +1,9 @@
+com/trendyol/student/StudentApplication.class
+io/spring/guides/gs_producing_web_service/GetStudentResponse.class
+io/spring/guides/gs_producing_web_service/Student.class
+io/spring/guides/gs_producing_web_service/package-info.class
+io/spring/guides/gs_producing_web_service/GetStudentRequest.class
+com/trendyol/student/StudentRepository.class
+io/spring/guides/gs_producing_web_service/ObjectFactory.class
+io/spring/guides/gs_producing_web_service/Country.class
+com/trendyol/student/StudentEndpoint.class
